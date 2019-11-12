@@ -13,7 +13,11 @@ public:
     Data data; // object at node
     Node *next; // pointer to next node
 
-    Node(const Data &d, Node *n);
+    //Node Constructor
+    Node(const Data &d, Node *n = nullptr){
+        data = d;
+        next = n; //optional
+    }
 };
 
 class LinkedList {
