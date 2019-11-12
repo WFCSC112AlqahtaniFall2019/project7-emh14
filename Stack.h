@@ -14,7 +14,7 @@ public:
     Stack();
 
     //Inserts node into the Stack at the head of the list
-    void push_head(Node* input);
+    void push_head(Data input);
 
     //Removes a Data object pointed to by the head pointer
     bool pop_head();

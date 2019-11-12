@@ -12,8 +12,8 @@ Stack::Stack() {
 }
 
 //push_head member function
-void Stack::push_head(Node* input) {
-      Node* newHead = new Node(input->data, head); //creates new Node
+void Stack::push_head(Data input) {
+      Node* newHead = new Node(input); //creates new Node
       head = newHead; //reassigns the first element
 }
 

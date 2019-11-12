@@ -17,7 +17,7 @@ public:
     Queue();
 
     //Inserts Node into the Queue at the tail of the list
-   void enqueue_tail(Node* input);
+   void enqueue_tail(Data input);
 
    //removes a Data object pointed to by the head pointer
    bool dequeue_head();
