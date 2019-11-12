@@ -5,3 +5,27 @@
 
 #include "Stack.h"
 using namespace std;
+
+//Default Constructor
+Stack::Stack() {
+    head = nullptr;
+}
+
+//push_head member function
+void Stack::push_head(Node* input) {
+      Node* newHead = new Node(input->data, head); //creates new Node
+      head = newHead; //reassigns the first element
+}
+
+//pop_head member function
+bool Stack::pop_head() {
+    if (head){
+        Node* tempNode = head; //create temporary Node
+        head = head->next; //iterate over one position
+        delete(tempNode); //delete the temporary
+        return true;
+    }
+    else{
+        return false;
+    }
+}

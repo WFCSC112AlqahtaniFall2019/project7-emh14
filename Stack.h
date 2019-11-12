@@ -4,8 +4,20 @@
 
 #ifndef PROJECT7_STACK_H
 #define PROJECT7_STACK_H
+#include <stack>
+#include "LinkedList.h"
 
-class Stack {
+class Stack: public LinkedList{
+
+public:
+    //Default Constructor
+    Stack();
+
+    //Inserts node into the Stack at the head of the list
+    void push_head(Node* input);
+
+    //Removes a Data object pointed to by the head pointer
+    bool pop_head();
 
 };
 
