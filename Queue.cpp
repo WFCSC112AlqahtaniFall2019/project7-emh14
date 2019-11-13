@@ -32,7 +32,7 @@ void Queue::enqueue_tail(Data input){
 
 //dequeue_head member function
 bool Queue::dequeue_head(){
-    if (head){
+    if (head != nullptr) {
         Node* tempNode = head; //create temporary Node
         head = head->next; //iterate over one position
         delete(tempNode); //delete the temporary

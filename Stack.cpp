@@ -22,7 +22,7 @@ void Stack::push_head(Data input) {
 
 //pop_head member function
 bool Stack::pop_head() {
-    if (head){
+    if (head != nullptr) {
         Node* tempNode = head; //create temporary Node
         head = head->next; //iterate over one position
         delete(tempNode); //delete the temporary

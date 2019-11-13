@@ -129,11 +129,11 @@ int main() {
     cout << "Printing data to sorted.txt sorted by score ..." << endl << endl;
 
     //Removes each Data object using the “pop_head” function until the list is empty
+    while (newStack->pop_head());
+
     //Removes each Data object using the “dequeue_head” function until the list is empty
-    while (!dataFile.eof()) {
-        newStack->pop_head();
-        newQueue->dequeue_head();
-    }
+    while (newQueue->dequeue_head());
+
 
 
     //close all files
