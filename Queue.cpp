@@ -13,7 +13,7 @@ Queue::Queue() {
 
 //enqueue_tail member function
 void Queue::enqueue_tail(Data input){
-    Node* newTail = new Node(input); //creates new Node
+    Node *newTail = new Node(input, head); //creates new Node
     tail->next = newTail; //point to the new end of list
     tail = newTail; //reassigns the last element
 
