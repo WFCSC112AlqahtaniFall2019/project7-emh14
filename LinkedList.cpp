@@ -1,3 +1,9 @@
+/* Ethan Harrison
+ * CSC 112
+ * Project 7
+ * Linked Lists, Stacks, Queue, Sorted Linked Lists, and Inheritance
+ * */
+
 /* Class: LinkedList
  * Description: Very basic singly linked List class with single head 
  * class for use with Data object. It is meant to be inherited for

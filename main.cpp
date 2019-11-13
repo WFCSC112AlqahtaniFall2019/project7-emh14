@@ -1,3 +1,9 @@
+/* Ethan Harrison
+ * CSC 112
+ * Project 7
+ * Linked Lists, Stacks, Queue, Sorted Linked Lists, and Inheritance
+ * */
+
 #include <iostream>
 #include <fstream>
 #include "Data.h"
@@ -60,14 +66,14 @@ int main() {
 
     //Print Headers
     stackOutFile << titleHeader << "\t" << yearHeader << "\t" << scoreHeader << "\t" << runtimeHeader << "\t"
-                 << genreHeader << "\t"
-                 << ratingHeader << endl << endl;
+            << genreHeader << "\t"
+            << ratingHeader << endl << endl;
     queueOutFile << titleHeader << "\t" << yearHeader << "\t" << scoreHeader << "\t" << runtimeHeader << "\t"
-                 << genreHeader << "\t"
-                 << ratingHeader << endl << endl;
+            << genreHeader << "\t"
+            << ratingHeader << endl << endl;
     sortedOutFile << titleHeader << "\t" << yearHeader << "\t" << scoreHeader << "\t" << runtimeHeader << "\t"
-                  << genreHeader << "\t"
-                  << ratingHeader << endl << endl;
+            << genreHeader << "\t"
+            << ratingHeader << endl << endl;
 
     //read the file by each variable line
     while (!dataFile.eof()) {

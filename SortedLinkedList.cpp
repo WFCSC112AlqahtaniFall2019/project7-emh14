@@ -1,6 +1,8 @@
-//
-// Created by Ethan Harrison on 11/11/19.
-//
+/* Ethan Harrison
+ * CSC 112
+ * Project 7
+ * Linked Lists, Stacks, Queue, Sorted Linked Lists, and Inheritance
+ * */
 
 #include "SortedLinkedList.h"
 #include "LinkedList.h"
