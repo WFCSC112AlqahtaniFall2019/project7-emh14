@@ -10,7 +10,8 @@ using namespace std;
 
 //Overloads the output stream operator
 ostream &operator<<(ostream &os, const Data &data) {
-    os << data.title << "\t" << data.year << "\t" << data.score << "\t" << data.runtime << "\t" << data.genre << "\t"
+    os << data.title << ", \t" << data.year << ", \t" << data.score << "/10" << ", \t" << data.runtime << " minutes"
+       << ", \t" << data.genre << ", \t"
        << data.rating << endl;
     /*cout << data.title << " " << data.year << " " << data.score << " " << data.runtime << " " << data.genre << " "
          << data.rating << endl;*/

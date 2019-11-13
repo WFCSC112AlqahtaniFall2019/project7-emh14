@@ -16,6 +16,7 @@ int main() {
 
     //Link csv file
     dataFile.open("../MovieData.csv");
+    cout << "Reading MovieData.csv..." << endl;
 
     //open stacked file
     stackOutFile.open("../stacked.txt"); //relative address
@@ -97,6 +98,7 @@ int main() {
 
     //call printing ftn from LinkedList
     newStack->print(stackOutFile);
+    cout << "Printing data to stacked.txt..." << endl;
 
     //close all files
     dataFile.close();
