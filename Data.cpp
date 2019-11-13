@@ -11,7 +11,7 @@ using namespace std;
 //Overloads the output stream operator
 ostream &operator<<(ostream &os, const Data &data) {
     os << data.title << " " << data.year << " " << data.score << " " << data.runtime << " " << data.genre << " "
-       << data.rating << " ";
+       << data.rating << endl;
     return os;
 }
 

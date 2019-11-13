@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/Data.h
+iostream
+-
+string
+-
+
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/LinkedList.h
+Data.h
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/Data.h
+
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/Queue.h
+LinkedList.h
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/LinkedList.h
+
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/SortedLinkedList.h
+LinkedList.h
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/LinkedList.h
+
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/Stack.h
+stack
+-
+LinkedList.h
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/LinkedList.h
+
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/main.cpp
+iostream
+-
+fstream
+-
+Data.h
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/Data.h
+Stack.h
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/Stack.h
+Queue.h
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/Queue.h
+LinkedList.h
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/LinkedList.h
+SortedLinkedList.h
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/SortedLinkedList.h
+
