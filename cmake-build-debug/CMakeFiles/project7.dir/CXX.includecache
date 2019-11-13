@@ -6,23 +6,47 @@
 
 #IncludeRegexTransform: 
 
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/Data.cpp
+Data.h
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/Data.h
+string
+-
+iostream
+-
+
 /Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/Data.h
 iostream
 -
 string
 -
 
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/LinkedList.cpp
+LinkedList.h
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/LinkedList.h
+
 /Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/LinkedList.h
 Data.h
 /Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/Data.h
+
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/Queue.cpp
+Queue.h
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/Queue.h
 
 /Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/Queue.h
 LinkedList.h
 /Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/LinkedList.h
 
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/SortedLinkedList.cpp
+SortedLinkedList.h
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/SortedLinkedList.h
+
 /Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/SortedLinkedList.h
 LinkedList.h
 /Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/LinkedList.h
+
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/Stack.cpp
+Stack.h
+/Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/Stack.h
 
 /Users/ethanharrison/Desktop/CSC 112/Projects/project-7-emh14/Stack.h
 stack
