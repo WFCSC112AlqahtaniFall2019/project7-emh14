@@ -32,4 +32,5 @@ public:
     ~LinkedList();
 };
 
+
 #endif //LINKEDLIST_H

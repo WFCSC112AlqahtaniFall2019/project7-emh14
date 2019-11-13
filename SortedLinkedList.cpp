@@ -36,3 +36,5 @@ void SortedLinkedList::insertSorted(Data input) {
     previous->next = newItem;
 
 }
+
+

@@ -17,6 +17,7 @@ void Stack::push_head(Data input) {
       head = newHead; //reassigns the first element
 }
 
+
 //pop_head member function
 bool Stack::pop_head() {
     if (head){
