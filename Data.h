@@ -10,6 +10,15 @@ using namespace std;
 
 class Data {
 
+
+private:
+    string title;
+    int year;
+    double score;
+    int runtime;
+    string genre;
+    string rating;
+
 public:
     //Overloads the output stream operator
     friend ostream& operator<<(ostream& os, const Data& data);
@@ -17,13 +26,12 @@ public:
     //Overloads the comparison operators
     bool operator > (Data score);
 
-private:
-    string title;
-    int year;
-    int score;
-    int runtime;
-    string genre;
-    string rating;
+    //Default Constructor
+    Data();
+
+    //Alternate Constructor
+    Data(string t, int y, double s, int runt, string g, string rate);
+
 };
 
 #endif //PROJECT7_DATA_H

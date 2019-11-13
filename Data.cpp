@@ -28,3 +28,23 @@ bool Data::operator>(Data scoring) {
     }
 }
 
+//Default Constructor
+Data::Data(){
+    title = " ";
+    year = 0;
+    score = 0.0;
+    runtime = 0;
+    genre = " ";
+    rating = " ";
+}
+
+//Alternate Constructor
+Data::Data(string t, int y, double s, int runt, string g, string rate){
+    title = t;
+    year = y;
+    score = s;
+    runtime = runt;
+    genre = g;
+    rating = rate;
+}
+
