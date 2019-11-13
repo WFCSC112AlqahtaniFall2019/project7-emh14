@@ -11,8 +11,7 @@ class SortedLinkedList: public LinkedList {
 public:
 
     //Inserts it into the Sorted Linked List at the appropriate place in the list
-    void insertSorted(Data* input);
-
+    void insertSorted(Data input);
 };
 
 
