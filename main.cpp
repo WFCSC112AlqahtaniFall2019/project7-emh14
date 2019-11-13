@@ -17,6 +17,9 @@ int main() {
     //Link csv file
     dataFile.open("../MovieData.csv");
 
+    //open stacked file
+    stackOutFile.open("../stacked.txt"); //relative address
+
     //create new Stack
     Stack *newStack = new Stack;
 
@@ -50,7 +53,7 @@ int main() {
     //Print Headers
     stackOutFile << titleHeader << "\t" << yearHeader << "\t" << scoreHeader << "\t" << runtimeHeader << "\t"
                  << genreHeader << "\t"
-                 << ratingHeader << endl;
+                 << ratingHeader << endl << endl;
 
     //read the file by each variable line
     while (!dataFile.eof()) {
@@ -91,9 +94,6 @@ int main() {
         newStack->push_head(newData);
     }
 
-
-    //open stacked file
-    stackOutFile.open("../stacked.txt"); //relative address
 
     //call printing ftn from LinkedList
     newStack->print(stackOutFile);
