@@ -15,10 +15,42 @@ int main() {
     ofstream stackOutFile;
 
     //Link csv file
-    dataFile.open("MovieData.csv");
+    dataFile.open("../MovieData.csv");
 
     //create new Stack
     Stack *newStack = new Stack;
+
+
+    //read the first line with column titles separately
+    string titleHeader;
+    getline(dataFile, titleHeader, ',');
+    //cout<<"title"<<titleHeader<<endl;
+
+    string yearHeader;
+    getline(dataFile, yearHeader, ',');
+    //cout<<"year"<<yearHeader<<endl;
+
+    string scoreHeader;
+    getline(dataFile, scoreHeader, ',');
+    //cout<<"score"<<scoreHeader<<endl;
+
+    string runtimeHeader;
+    getline(dataFile, runtimeHeader, ',');
+    //cout<<"run"<<runtimeHeader<<endl;
+
+    string genreHeader;
+    getline(dataFile, genreHeader, ',');
+    //cout<<"genre"<<genreHeader<<endl;
+
+    string ratingHeader;
+    getline(dataFile, ratingHeader);
+    //cout<<"rate"<<ratingHeader<<endl;
+
+
+    //Print Headers
+    stackOutFile << titleHeader << "\t" << yearHeader << "\t" << scoreHeader << "\t" << runtimeHeader << "\t"
+                 << genreHeader << "\t"
+                 << ratingHeader << endl;
 
     //read the file by each variable line
     while (!dataFile.eof()) {
@@ -26,25 +58,34 @@ int main() {
         string title;
         getline(dataFile, title, ',');
 
-        string year;
-        getline(dataFile, year, ',');
+        string yearString;
+        getline(dataFile, yearString, ',');
 
-        string score;
-        getline(dataFile, score, ',');
+        string scoreString;
+        getline(dataFile, scoreString, ',');
 
-        string runtime;
-        getline(dataFile, runtime, ',');
+        string runtimeString;
+        getline(dataFile, runtimeString, ',');
 
         string genre;
         getline(dataFile, genre, ',');
 
         string rating;
-        getline(dataFile, rating, ',');
+        getline(dataFile, rating);
 
-        cout << title << endl;
+        //cout << title << " " << year<< " " << score << " " << runtime << " " << genre << " " << rating<< endl;
+
+        /*Convert from strings to correct data type*/
+        //cout<<"here!"<<endl;
+        int year = stoi(yearString);
+        //cout<<year<<endl;
+        double score = stod(scoreString);
+        //cout<<score<<endl;
+        int runtime = stoi(runtimeString);
+        //cout<<runtime<<endl;
 
         //Creates a new object for each movie read in and correct variable types
-        Data newData = Data(title, stoi(year), stod(score), stoi(runtime), genre, rating);
+        Data newData = Data(title, year, score, runtime, genre, rating);
 
         //Push to the head of the stack
         newStack->push_head(newData);
@@ -54,13 +95,8 @@ int main() {
     //open stacked file
     stackOutFile.open("../stacked.txt"); //relative address
 
-    //printing loop
-    while (true) {
-        newStack->print(stackOutFile);
-        if (!newStack->pop_head()) {
-            break;
-        }
-    }
+    //call printing ftn from LinkedList
+    newStack->print(stackOutFile);
 
     //close all files
     dataFile.close();

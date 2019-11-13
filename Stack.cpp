@@ -13,7 +13,7 @@ Stack::Stack() {
 
 //push_head member function
 void Stack::push_head(Data input) {
-      Node* newHead = new Node(input); //creates new Node
+    Node *newHead = new Node(input, head); //creates new Node
       head = newHead; //reassigns the first element
 }
 

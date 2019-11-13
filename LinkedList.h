@@ -14,7 +14,7 @@ public:
     Node *next; // pointer to next node
 
     //Node Constructor
-    Node(const Data &d, Node *n = nullptr){
+    Node(Data d, Node *n = nullptr) {
         data = d;
         next = n; //optional
     }
