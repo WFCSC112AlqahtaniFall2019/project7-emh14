@@ -11,37 +11,39 @@ using namespace std;
 int main() {
 
     //declare fstream type variables
-    ifstream inFile;
-    ofstream outFile;
+    ifstream dataFile;
+    ofstream stackOutFile;
 
     //Link csv file
-    inFile.open("MovieData.csv");
+    dataFile.open("MovieData.csv");
 
     //create new Stack
     Stack *newStack = new Stack;
 
     //read the file by each variable line
-    while (inFile.good()) {
+    while (!dataFile.eof()) {
 
         string title;
-        getline(inFile, title, ',');
+        getline(dataFile, title, ',');
 
         string year;
-        getline(inFile, year, ',');
+        getline(dataFile, year, ',');
 
         string score;
-        getline(inFile, score, ',');
+        getline(dataFile, score, ',');
 
         string runtime;
-        getline(inFile, runtime, ',');
+        getline(dataFile, runtime, ',');
 
         string genre;
-        getline(inFile, genre, ',');
+        getline(dataFile, genre, ',');
 
         string rating;
-        getline(inFile, rating, ',');
+        getline(dataFile, rating, ',');
 
-        //Creates a new object for each movie read in
+        cout << title << endl;
+
+        //Creates a new object for each movie read in and correct variable types
         Data newData = Data(title, stoi(year), stod(score), stoi(runtime), genre, rating);
 
         //Push to the head of the stack
@@ -49,6 +51,20 @@ int main() {
     }
 
 
+    //open stacked file
+    stackOutFile.open("../stacked.txt"); //relative address
+
+    //printing loop
+    while (true) {
+        newStack->print(stackOutFile);
+        if (!newStack->pop_head()) {
+            break;
+        }
+    }
+
+    //close all files
+    dataFile.close();
+    stackOutFile.close();
 
     return 0;
 }

@@ -12,6 +12,8 @@ using namespace std;
 ostream &operator<<(ostream &os, const Data &data) {
     os << data.title << " " << data.year << " " << data.score << " " << data.runtime << " " << data.genre << " "
        << data.rating << endl;
+    cout << data.title << " " << data.year << " " << data.score << " " << data.runtime << " " << data.genre << " "
+         << data.rating << endl;
     return os;
 }
 
