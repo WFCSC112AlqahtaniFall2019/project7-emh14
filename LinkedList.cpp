@@ -67,5 +67,3 @@ LinkedList::~LinkedList() {
         pop_head();
     }
 }
-
-
