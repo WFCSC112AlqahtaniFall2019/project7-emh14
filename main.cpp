@@ -14,20 +14,23 @@ int main() {
     ifstream dataFile;
     ofstream stackOutFile;
     ofstream queueOutFile;
+    ofstream sortedOutFile;
 
     //Link csv file
     dataFile.open("../MovieData.csv");
     cout << "Reading MovieData.csv..." << endl;
 
-    //open  files
-    stackOutFile.open("../stacked.txt"); //relative address
-    queueOutFile.open("../queue.txt"); //relative address
+    //open  files with relative address
+    stackOutFile.open("../stacked.txt");
+    queueOutFile.open("../queue.txt");
+    sortedOutFile.open("../sorted.txt");
 
     //create new Stack
     Stack *newStack = new Stack;
-
     //create new Queue
     Queue *newQueue = new Queue;
+    //create new LinkedList
+    SortedLinkedList *newList = new SortedLinkedList;
 
     //read the first line with column titles separately
     string titleHeader;
@@ -62,6 +65,9 @@ int main() {
     queueOutFile << titleHeader << "\t" << yearHeader << "\t" << scoreHeader << "\t" << runtimeHeader << "\t"
                  << genreHeader << "\t"
                  << ratingHeader << endl << endl;
+    sortedOutFile << titleHeader << "\t" << yearHeader << "\t" << scoreHeader << "\t" << runtimeHeader << "\t"
+                  << genreHeader << "\t"
+                  << ratingHeader << endl << endl;
 
     //read the file by each variable line
     while (!dataFile.eof()) {
@@ -100,20 +106,34 @@ int main() {
 
         //Push to the head of the stack
         newStack->push_head(newData);
+        //Enqueue to the tail of the queue
         newQueue->enqueue_tail(newData);
+        //Insert into sorted Linked List
+        newList->insertSorted(newData);
     }
 
     //call printing ftn from LinkedList
     newStack->print(stackOutFile);
     cout << "Printing data to stacked.txt..." << endl;
+
     newQueue->print(queueOutFile);
-    cout << "Printing data to queue.txt..." << endl << endl;
+    cout << "Printing data to queue.txt..." << endl;
+
+    newList->print(sortedOutFile);
+    cout << "Printing data to sorted.txt sorted by score ..." << endl << endl;
+
+    //Removes each Data object using the “pop_head” function until the list is empty
+    //Removes each Data object using the “dequeue_head” function until the list is empty
+    while (!dataFile.eof()) {
+        newStack->pop_head();
+        newQueue->dequeue_head();
+    }
 
     //close all files
     dataFile.close();
     stackOutFile.close();
     queueOutFile.close();
-
+    sortedOutFile.close();
 
     return 0;
 }

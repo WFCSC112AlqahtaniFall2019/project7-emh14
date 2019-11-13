@@ -19,16 +19,8 @@ ostream &operator<<(ostream &os, const Data &data) {
 }
 
 //Overloads the comparison operators
-bool Data::operator>(Data scoring) {
-    if (this->score < scoring.score) {
-        return false;
-    }
-    else if (this->score > scoring.score) {
-        return true;
-    }
-    else {
-        return false;
-    }
+bool Data::operator>(const Data &scoring) {
+    return score > scoring.score;
 }
 
 //Default Constructor

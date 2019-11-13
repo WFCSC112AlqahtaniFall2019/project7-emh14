@@ -24,7 +24,7 @@ public:
     friend ostream& operator<<(ostream& os, const Data& data);
 
     //Overloads the comparison operators
-    bool operator > (Data score);
+    bool operator>(const Data &scoring);
 
     //Default Constructor
     Data();
