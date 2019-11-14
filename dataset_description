@@ -1,0 +1,7 @@
+My data set includes general information about movies released between 1986 and 2016. The file stores the movie’s title,
+ release year, score (out of ten), runtime (measured in minutes), genre, and rating. I wanted to use the information
+ that would most help a person decide whether or not they would be interested in watching one of these films. I omitted
+ all of the monetary values such budget, ticket sales, and gross. I chose to use movies for this project, because I love
+  to watch them. My friends and I often go to the theaters whenever we have free time. I sorted the movies based on
+  their score, so the user can see almost all of the movies from the past thirty years ranked from worst to best. I was
+  excited to see that one of my favorite movies of all time, “The Dark Knight” was ranked number two overall!
