@@ -22,14 +22,31 @@ int main() {
     ofstream queueOutFile;
     ofstream sortedOutFile;
 
-    //Link csv file
+    //Link csv file and check if open
     dataFile.open("../MovieData.csv");
-    cout << "Reading MovieData.csv..." << endl;
+    if (!dataFile.is_open()) {
+        cout << "dataFile not open!" << endl;
+        return 1;
+    } else {
+        cout << "Reading MovieData.csv..." << endl;
+    }
 
-    //open  files with relative address
+    //open  files with relative address and check if open
     stackOutFile.open("../stacked.txt");
+    if (!stackOutFile.is_open()) {
+        cout << "stackOutFile not open!" << endl;
+        return 1;
+    }
     queueOutFile.open("../queue.txt");
+    if (!queueOutFile.is_open()) {
+        cout << "queueOutFile not open!" << endl;
+        return 1;
+    }
     sortedOutFile.open("../sorted.txt");
+    if (!sortedOutFile.is_open()) {
+        cout << "sortedOutFile not open!" << endl;
+        return 1;
+    }
 
     //create new Stack
     Stack *newStack = new Stack;
@@ -133,7 +150,6 @@ int main() {
 
     //Removes each Data object using the “dequeue_head” function until the list is empty
     while (newQueue->dequeue_head());
-
 
 
     //close all files
