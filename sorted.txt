@@ -250,7 +250,7 @@ Phat Beach, 	1996, 	3.9/10, 	89 minutes, 	Comedy, 	R
 
 Gordy, 	1995, 	3.9/10, 	100 minutes, 	Comedy, 	G
 
-Cop & ½, 	1993, 	3.9/10, 	97 minutes, 	Comedy, 	PG
+Cop & ?, 	1993, 	3.9/10, 	97 minutes, 	Comedy, 	PG
 
 The Haunting of Morella, 	1990, 	3.9/10, 	82 minutes, 	Horror, 	R
 
@@ -1026,7 +1026,7 @@ Eye of the Beholder, 	1999, 	4.9/10, 	109 minutes, 	Drama, 	R
 
 Virus, 	1999, 	4.9/10, 	99 minutes, 	Action, 	R
 
-La maldición, 	1999, 	4.9/10, 	113 minutes, 	Fantasy, 	PG-13
+La maldici?n, 	1999, 	4.9/10, 	113 minutes, 	Fantasy, 	PG-13
 
 Krippendorf's Tribe, 	1998, 	4.9/10, 	94 minutes, 	Comedy, 	PG-13
 
@@ -1124,11 +1124,11 @@ Temptation: Confessions of a Marriage Counselor, 	2013, 	5/10, 	111 minutes, 	Dr
 
 Universal Soldier: Day of Reckoning, 	2012, 	5/10, 	114 minutes, 	Action, 	R
 
-Cosmópolis, 	2012, 	5/10, 	109 minutes, 	Drama, 	R
+Cosm?polis, 	2012, 	5/10, 	109 minutes, 	Drama, 	R
 
 Chernobyl Diaries, 	2012, 	5/10, 	86 minutes, 	Horror, 	R
 
-Terror en Silent Hill 2: la revelación, 	2012, 	5/10, 	95 minutes, 	Adventure, 	R
+Terror en Silent Hill 2: la revelaci?n, 	2012, 	5/10, 	95 minutes, 	Adventure, 	R
 
 Passion Play, 	2010, 	5/10, 	94 minutes, 	Drama, 	R
 
@@ -1354,7 +1354,7 @@ Get Rich or Die Tryin', 	2005, 	5.1/10, 	117 minutes, 	Biography, 	R
 
 The Dukes of Hazzard, 	2005, 	5.1/10, 	104 minutes, 	Action, 	PG-13
 
-Ma mère, 	2004, 	5.1/10, 	110 minutes, 	Drama, 	NC-17
+Ma m?re, 	2004, 	5.1/10, 	110 minutes, 	Drama, 	NC-17
 
 A Dirty Shame, 	2004, 	5.1/10, 	89 minutes, 	Comedy, 	NC-17
 
@@ -1658,7 +1658,7 @@ Soul Man, 	1986, 	5.2/10, 	104 minutes, 	Comedy, 	PG-13
 
 The Other Side of the Door, 	2016, 	5.3/10, 	96 minutes, 	Horror, 	R
 
-Mi papá es un gato, 	2016, 	5.3/10, 	87 minutes, 	Comedy, 	PG
+Mi pap? es un gato, 	2016, 	5.3/10, 	87 minutes, 	Comedy, 	PG
 
 Independence Day: Resurgence, 	2016, 	5.3/10, 	120 minutes, 	Action, 	PG-13
 
@@ -1684,7 +1684,7 @@ The Green Inferno, 	2013, 	5.3/10, 	100 minutes, 	Adventure, 	R
 
 Tim and Eric's Billion Dollar Movie, 	2012, 	5.3/10, 	93 minutes, 	Comedy, 	R
 
-Pasión  un asesinato perfecto, 	2012, 	5.3/10, 	102 minutes, 	Mystery, 	R
+Pasi?n  un asesinato perfecto, 	2012, 	5.3/10, 	102 minutes, 	Mystery, 	R
 
 One for the Money, 	2012, 	5.3/10, 	91 minutes, 	Action, 	PG-13
 
@@ -1858,7 +1858,7 @@ Mi adorable delincuente, 	1994, 	5.3/10, 	96 minutes, 	Adventure, 	PG
 
 Clifford, 	1994, 	5.3/10, 	90 minutes, 	Comedy, 	PG
 
-Ri¢hie Ri¢h, 	1994, 	5.3/10, 	95 minutes, 	Comedy, 	PG
+Ri?hie Ri?h, 	1994, 	5.3/10, 	95 minutes, 	Comedy, 	PG
 
 Silent Tongue, 	1993, 	5.3/10, 	102 minutes, 	Drama, 	PG-13
 
@@ -2318,7 +2318,7 @@ Si te casas... te mato, 	2005, 	5.5/10, 	101 minutes, 	Comedy, 	PG-13
 
 Rumor Has It..., 	2005, 	5.5/10, 	97 minutes, 	Comedy, 	PG-13
 
-Æon Flux, 	2005, 	5.5/10, 	93 minutes, 	Action, 	PG-13
+?on Flux, 	2005, 	5.5/10, 	93 minutes, 	Action, 	PG-13
 
 Cheaper by the Dozen 2, 	2005, 	5.5/10, 	94 minutes, 	Adventure, 	PG
 
@@ -2464,7 +2464,7 @@ Folks!, 	1992, 	5.5/10, 	107 minutes, 	Comedy, 	PG-13
 
 Mistress, 	1992, 	5.5/10, 	110 minutes, 	Comedy, 	R
 
-Bébé's Kids, 	1992, 	5.5/10, 	70 minutes, 	Animation, 	PG-13
+B?b?'s Kids, 	1992, 	5.5/10, 	70 minutes, 	Animation, 	PG-13
 
 Hellraiser III: Hell on Earth, 	1992, 	5.5/10, 	91 minutes, 	Horror, 	R
 
@@ -2540,7 +2540,7 @@ King Cobra, 	2016, 	5.6/10, 	91 minutes, 	Crime, 	NOT RATED
 
 Mother's Day, 	2016, 	5.6/10, 	118 minutes, 	Comedy, 	PG-13
 
-El especialista: La resurrección, 	2016, 	5.6/10, 	98 minutes, 	Action, 	R
+El especialista: La resurrecci?n, 	2016, 	5.6/10, 	98 minutes, 	Action, 	R
 
 Resident Evil: The Final Chapter, 	2016, 	5.6/10, 	107 minutes, 	Action, 	R
 
@@ -2596,7 +2596,7 @@ The Good Doctor, 	2011, 	5.6/10, 	91 minutes, 	Drama, 	PG-13
 
 Green Lantern, 	2011, 	5.6/10, 	114 minutes, 	Action, 	PG-13
 
-El último exorcismo, 	2010, 	5.6/10, 	87 minutes, 	Drama, 	PG-13
+El ?ltimo exorcismo, 	2010, 	5.6/10, 	87 minutes, 	Drama, 	PG-13
 
 Don't Be Afraid of the Dark, 	2010, 	5.6/10, 	99 minutes, 	Fantasy, 	R
 
@@ -2624,7 +2624,7 @@ Friday the 13th, 	2009, 	5.6/10, 	97 minutes, 	Horror, 	R
 
 Garden Party, 	2008, 	5.6/10, 	88 minutes, 	Drama, 	NOT RATED
 
-Ni en tu casa ni en la mía, 	2008, 	5.6/10, 	88 minutes, 	Comedy, 	PG-13
+Ni en tu casa ni en la m?a, 	2008, 	5.6/10, 	88 minutes, 	Comedy, 	PG-13
 
 Babylon A.D., 	2008, 	5.6/10, 	101 minutes, 	Action, 	PG-13
 
@@ -2766,7 +2766,7 @@ Chain Reaction, 	1996, 	5.6/10, 	107 minutes, 	Action, 	PG-13
 
 The Nutty Professor, 	1996, 	5.6/10, 	95 minutes, 	Comedy, 	PG-13
 
-La piedra y el pingüino, 	1995, 	5.6/10, 	74 minutes, 	Animation, 	G
+La piedra y el ping?ino, 	1995, 	5.6/10, 	74 minutes, 	Animation, 	G
 
 Senior Trip, 	1995, 	5.6/10, 	91 minutes, 	Adventure, 	R
 
@@ -2950,9 +2950,9 @@ I Give It a Year, 	2013, 	5.7/10, 	97 minutes, 	Comedy, 	R
 
 Identity Thief, 	2013, 	5.7/10, 	111 minutes, 	Comedy, 	R
 
-Sólo Dios perdona, 	2013, 	5.7/10, 	90 minutes, 	Crime, 	R
+S?lo Dios perdona, 	2013, 	5.7/10, 	90 minutes, 	Crime, 	R
 
-La noche de la expiación, 	2013, 	5.7/10, 	85 minutes, 	Horror, 	R
+La noche de la expiaci?n, 	2013, 	5.7/10, 	85 minutes, 	Horror, 	R
 
 At Any Price, 	2012, 	5.7/10, 	105 minutes, 	Drama, 	R
 
@@ -3076,7 +3076,7 @@ O Fantasma, 	2000, 	5.7/10, 	87 minutes, 	Drama, 	UNRATED
 
 Bait, 	2000, 	5.7/10, 	119 minutes, 	Action, 	R
 
-Pokémon 3: The Movie, 	2000, 	5.7/10, 	93 minutes, 	Animation, 	G
+Pok?mon 3: The Movie, 	2000, 	5.7/10, 	93 minutes, 	Animation, 	G
 
 Screwed, 	2000, 	5.7/10, 	81 minutes, 	Comedy, 	PG-13
 
@@ -3370,7 +3370,7 @@ Noah, 	2014, 	5.8/10, 	138 minutes, 	Action, 	PG-13
 
 Life of Crime, 	2013, 	5.8/10, 	98 minutes, 	Comedy, 	R
 
-Zonas húmedas, 	2013, 	5.8/10, 	109 minutes, 	Comedy, 	UNRATED
+Zonas h?medas, 	2013, 	5.8/10, 	109 minutes, 	Comedy, 	UNRATED
 
 Afternoon Delight, 	2013, 	5.8/10, 	98 minutes, 	Comedy, 	R
 
@@ -3434,7 +3434,7 @@ Observe and Report, 	2009, 	5.8/10, 	86 minutes, 	Comedy, 	R
 
 Ghosts of Girlfriends Past, 	2009, 	5.8/10, 	100 minutes, 	Comedy, 	PG-13
 
-Brüno, 	2009, 	5.8/10, 	81 minutes, 	Comedy, 	R
+Br?no, 	2009, 	5.8/10, 	81 minutes, 	Comedy, 	R
 
 Splice: experimento mortal, 	2009, 	5.8/10, 	104 minutes, 	Drama, 	R
 
@@ -3532,7 +3532,7 @@ All the Pretty Horses, 	2000, 	5.8/10, 	116 minutes, 	Drama, 	PG-13
 
 Molly, 	1999, 	5.8/10, 	102 minutes, 	Comedy, 	PG-13
 
-8 ½ Women, 	1999, 	5.8/10, 	118 minutes, 	Comedy, 	R
+8 ? Women, 	1999, 	5.8/10, 	118 minutes, 	Comedy, 	R
 
 The Adventures of Elmo in Grouchland, 	1999, 	5.8/10, 	73 minutes, 	Adventure, 	G
 
@@ -3596,7 +3596,7 @@ The Amazing Panda Adventure, 	1995, 	5.8/10, 	100 minutes, 	Family, 	PG
 
 Moonlight and Valentino, 	1995, 	5.8/10, 	105 minutes, 	Comedy, 	R
 
-Drácula: Muerto pero feliz, 	1995, 	5.8/10, 	88 minutes, 	Comedy, 	PG-13
+Dr?cula: Muerto pero feliz, 	1995, 	5.8/10, 	88 minutes, 	Comedy, 	PG-13
 
 It Takes Two, 	1995, 	5.8/10, 	101 minutes, 	Comedy, 	PG
 
@@ -3610,7 +3610,7 @@ The Chase, 	1994, 	5.8/10, 	100 minutes, 	Action, 	PG-13
 
 The Road to Wellville, 	1994, 	5.8/10, 	118 minutes, 	Comedy, 	R
 
-Timecop: Policía del futuro, 	1994, 	5.8/10, 	99 minutes, 	Action, 	R
+Timecop: Polic?a del futuro, 	1994, 	5.8/10, 	99 minutes, 	Action, 	R
 
 The Nutcracker, 	1993, 	5.8/10, 	92 minutes, 	Family, 	G
 
@@ -3914,7 +3914,7 @@ Eating Out, 	2004, 	5.9/10, 	90 minutes, 	Comedy, 	UNRATED
 
 Suspect Zero, 	2004, 	5.9/10, 	100 minutes, 	Crime, 	R
 
-Las leyes de atracción, 	2004, 	5.9/10, 	90 minutes, 	Comedy, 	PG-13
+Las leyes de atracci?n, 	2004, 	5.9/10, 	90 minutes, 	Comedy, 	PG-13
 
 Without a Paddle, 	2004, 	5.9/10, 	95 minutes, 	Adventure, 	PG-13
 
@@ -3994,7 +3994,7 @@ Asterix and Obelix vs. Caesar, 	1999, 	5.9/10, 	109 minutes, 	Adventure, 	Not sp
 
 The Story of Us, 	1999, 	5.9/10, 	95 minutes, 	Comedy, 	R
 
-Stuart Little  un ratón en la familia, 	1999, 	5.9/10, 	84 minutes, 	Adventure, 	PG
+Stuart Little  un rat?n en la familia, 	1999, 	5.9/10, 	84 minutes, 	Adventure, 	PG
 
 Beloved, 	1998, 	5.9/10, 	172 minutes, 	Drama, 	R
 
@@ -4228,7 +4228,7 @@ The Golden Child, 	1986, 	5.9/10, 	94 minutes, 	Action, 	PG-13
 
 The Wraith, 	1986, 	5.9/10, 	93 minutes, 	Action, 	PG-13
 
-9½ Weeks, 	1986, 	5.9/10, 	117 minutes, 	Drama, 	R
+9? Weeks, 	1986, 	5.9/10, 	117 minutes, 	Drama, 	R
 
 Almost Christmas, 	2016, 	6/10, 	111 minutes, 	Comedy, 	PG-13
 
@@ -4280,7 +4280,7 @@ Walk of Shame, 	2014, 	6/10, 	95 minutes, 	Comedy, 	R
 
 The Gambler, 	2014, 	6/10, 	111 minutes, 	Crime, 	R
 
-Búsqueda implacable 3, 	2014, 	6/10, 	109 minutes, 	Action, 	PG-13
+B?squeda implacable 3, 	2014, 	6/10, 	109 minutes, 	Action, 	PG-13
 
 Exodus: Gods and Kings, 	2014, 	6/10, 	150 minutes, 	Action, 	PG-13
 
@@ -4420,7 +4420,7 @@ Windtalkers, 	2002, 	6/10, 	134 minutes, 	Action, 	R
 
 The Caveman's Valentine, 	2001, 	6/10, 	105 minutes, 	Crime, 	R
 
-Sangre caníbal, 	2001, 	6/10, 	101 minutes, 	Horror, 	NOT RATED
+Sangre can?bal, 	2001, 	6/10, 	101 minutes, 	Horror, 	NOT RATED
 
 American Outlaws, 	2001, 	6/10, 	94 minutes, 	Action, 	PG-13
 
@@ -4450,7 +4450,7 @@ Grey Owl, 	1999, 	6/10, 	100 minutes, 	Biography, 	PG-13
 
 The Corruptor, 	1999, 	6/10, 	110 minutes, 	Action, 	R
 
-Pokémon: The Movie 2000, 	1999, 	6/10, 	84 minutes, 	Animation, 	G
+Pok?mon: The Movie 2000, 	1999, 	6/10, 	84 minutes, 	Animation, 	G
 
 Pushing Tin, 	1999, 	6/10, 	124 minutes, 	Comedy, 	R
 
@@ -4466,7 +4466,7 @@ Senseless, 	1998, 	6/10, 	93 minutes, 	Comedy, 	R
 
 The Object of My Affection, 	1998, 	6/10, 	111 minutes, 	Comedy, 	R
 
-Pokémon: The First Movie - Mewtwo Strikes Back, 	1998, 	6/10, 	96 minutes, 	Animation, 	G
+Pok?mon: The First Movie - Mewtwo Strikes Back, 	1998, 	6/10, 	96 minutes, 	Animation, 	G
 
 Belly, 	1998, 	6/10, 	96 minutes, 	Crime, 	R
 
@@ -4638,7 +4638,7 @@ The Hanoi Hilton, 	1987, 	6/10, 	125 minutes, 	Drama, 	R
 
 Creepshow 2, 	1987, 	6/10, 	92 minutes, 	Comedy, 	R
 
-Túnel al infierno, 	1987, 	6/10, 	85 minutes, 	Fantasy, 	PG-13
+T?nel al infierno, 	1987, 	6/10, 	85 minutes, 	Fantasy, 	PG-13
 
 Streets of Gold, 	1986, 	6/10, 	95 minutes, 	Drama, 	R
 
@@ -4654,7 +4654,7 @@ Middle School: The Worst Years of My Life, 	2016, 	6.1/10, 	92 minutes, 	Animati
 
 A Hologram for the King, 	2016, 	6.1/10, 	98 minutes, 	Comedy, 	R
 
-El fin del sueño americano, 	2016, 	6.1/10, 	108 minutes, 	Crime, 	R
+El fin del sue?o americano, 	2016, 	6.1/10, 	108 minutes, 	Crime, 	R
 
 How to Be Single, 	2016, 	6.1/10, 	110 minutes, 	Comedy, 	R
 
@@ -4754,7 +4754,7 @@ I Am Number Four, 	2011, 	6.1/10, 	109 minutes, 	Action, 	PG-13
 
 Sucker Punch, 	2011, 	6.1/10, 	110 minutes, 	Action, 	PG-13
 
-Kites: Más allá de las fronteras, 	2010, 	6.1/10, 	123 minutes, 	Action, 	NOT RATED
+Kites: M?s all? de las fronteras, 	2010, 	6.1/10, 	123 minutes, 	Action, 	NOT RATED
 
 The Killer Inside Me, 	2010, 	6.1/10, 	109 minutes, 	Crime, 	R
 
@@ -4786,7 +4786,7 @@ Bedtime Stories, 	2008, 	6.1/10, 	99 minutes, 	Comedy, 	PG
 
 El transportador 3, 	2008, 	6.1/10, 	104 minutes, 	Action, 	PG-13
 
-El libro mágico, 	2008, 	6.1/10, 	106 minutes, 	Adventure, 	PG
+El libro m?gico, 	2008, 	6.1/10, 	106 minutes, 	Adventure, 	PG
 
 What Happens in Vegas, 	2008, 	6.1/10, 	99 minutes, 	Comedy, 	PG-13
 
@@ -4930,7 +4930,7 @@ Wide Awake, 	1998, 	6.1/10, 	88 minutes, 	Comedy, 	PG
 
 Hideous Kinky, 	1998, 	6.1/10, 	98 minutes, 	Adventure, 	R
 
-Acusado sin razón, 	1998, 	6.1/10, 	87 minutes, 	Action, 	PG-13
+Acusado sin raz?n, 	1998, 	6.1/10, 	87 minutes, 	Action, 	PG-13
 
 Dead Man on Campus, 	1998, 	6.1/10, 	96 minutes, 	Comedy, 	R
 
@@ -5174,7 +5174,7 @@ Alice Through the Looking Glass, 	2016, 	6.2/10, 	113 minutes, 	Adventure, 	PG
 
 Personal Shopper, 	2016, 	6.2/10, 	105 minutes, 	Drama, 	R
 
-El demonio neón, 	2016, 	6.2/10, 	118 minutes, 	Horror, 	R
+El demonio ne?n, 	2016, 	6.2/10, 	118 minutes, 	Horror, 	R
 
 Inferno, 	2016, 	6.2/10, 	121 minutes, 	Action, 	PG-13
 
@@ -5248,7 +5248,7 @@ Adore, 	2013, 	6.2/10, 	100 minutes, 	Drama, 	R
 
 Beautiful Creatures, 	2013, 	6.2/10, 	124 minutes, 	Drama, 	PG-13
 
-Mamá, 	2013, 	6.2/10, 	100 minutes, 	Horror, 	PG-13
+Mam?, 	2013, 	6.2/10, 	100 minutes, 	Horror, 	PG-13
 
 Cocktail, 	2012, 	6.2/10, 	146 minutes, 	Comedy, 	NOT RATED
 
@@ -5302,7 +5302,7 @@ Tiny Furniture, 	2010, 	6.2/10, 	98 minutes, 	Comedy, 	NOT RATED
 
 Casino Jack, 	2010, 	6.2/10, 	108 minutes, 	Biography, 	R
 
-La vida según Attenberg, 	2010, 	6.2/10, 	97 minutes, 	Drama, 	NOT RATED
+La vida seg?n Attenberg, 	2010, 	6.2/10, 	97 minutes, 	Drama, 	NOT RATED
 
 Burke and Hare, 	2010, 	6.2/10, 	91 minutes, 	Comedy, 	R
 
@@ -5324,7 +5324,7 @@ Diary of a Wimpy Kid, 	2010, 	6.2/10, 	100 minutes, 	Comedy, 	PG
 
 The Karate Kid, 	2010, 	6.2/10, 	140 minutes, 	Action, 	PG
 
-Chéri, 	2009, 	6.2/10, 	100 minutes, 	Comedy, 	R
+Ch?ri, 	2009, 	6.2/10, 	100 minutes, 	Comedy, 	R
 
 Duplicity, 	2009, 	6.2/10, 	125 minutes, 	Comedy, 	PG-13
 
@@ -5822,7 +5822,7 @@ Deadfall, 	2012, 	6.3/10, 	95 minutes, 	Crime, 	R
 
 To Rome with Love, 	2012, 	6.3/10, 	112 minutes, 	Comedy, 	R
 
-Búsqueda implacable 2, 	2012, 	6.3/10, 	92 minutes, 	Action, 	PG-13
+B?squeda implacable 2, 	2012, 	6.3/10, 	92 minutes, 	Action, 	PG-13
 
 Total Recall, 	2012, 	6.3/10, 	118 minutes, 	Action, 	PG-13
 
@@ -6310,7 +6310,7 @@ Top Five, 	2014, 	6.4/10, 	102 minutes, 	Comedy, 	R
 
 Laggies, 	2014, 	6.4/10, 	99 minutes, 	Comedy, 	R
 
-Una Señal En La Tormenta, 	2014, 	6.4/10, 	91 minutes, 	Drama, 	R
+Una Se?al En La Tormenta, 	2014, 	6.4/10, 	91 minutes, 	Drama, 	R
 
 Good Kill, 	2014, 	6.4/10, 	102 minutes, 	Drama, 	R
 
@@ -6432,7 +6432,7 @@ The Uninvited, 	2009, 	6.4/10, 	87 minutes, 	Drama, 	PG-13
 
 17 Again, 	2009, 	6.4/10, 	102 minutes, 	Comedy, 	PG-13
 
-A él no le gustas tanto, 	2009, 	6.4/10, 	129 minutes, 	Comedy, 	PG-13
+A ?l no le gustas tanto, 	2009, 	6.4/10, 	129 minutes, 	Comedy, 	PG-13
 
 Hamlet 2, 	2008, 	6.4/10, 	92 minutes, 	Comedy, 	R
 
@@ -6556,7 +6556,7 @@ Rat Race, 	2001, 	6.4/10, 	112 minutes, 	Adventure, 	PG-13
 
 American Pie 2, 	2001, 	6.4/10, 	108 minutes, 	Comedy, 	R
 
-Taxi 2 - Alta tensión, 	2000, 	6.4/10, 	88 minutes, 	Action, 	NOT RATED
+Taxi 2 - Alta tensi?n, 	2000, 	6.4/10, 	88 minutes, 	Action, 	NOT RATED
 
 Better Than Sex, 	2000, 	6.4/10, 	95 minutes, 	Drama, 	R
 
@@ -6648,7 +6648,7 @@ DragonHeart, 	1996, 	6.4/10, 	103 minutes, 	Action, 	PG-13
 
 Executive Decision, 	1996, 	6.4/10, 	133 minutes, 	Action, 	R
 
-Crash: Extraños placeres, 	1996, 	6.4/10, 	100 minutes, 	Drama, 	NC-17
+Crash: Extra?os placeres, 	1996, 	6.4/10, 	100 minutes, 	Drama, 	NC-17
 
 A Month by the Lake, 	1995, 	6.4/10, 	92 minutes, 	Comedy, 	PG
 
@@ -6670,13 +6670,13 @@ Losing Isaiah, 	1995, 	6.4/10, 	111 minutes, 	Drama, 	R
 
 Just Cause, 	1995, 	6.4/10, 	102 minutes, 	Action, 	R
 
-Asesinos cibernéticos, 	1995, 	6.4/10, 	108 minutes, 	Sci-Fi, 	R
+Asesinos cibern?ticos, 	1995, 	6.4/10, 	108 minutes, 	Sci-Fi, 	R
 
 Dangerous Minds, 	1995, 	6.4/10, 	99 minutes, 	Biography, 	R
 
 To Wong Foo Thanks for Everything  Julie Newmar, 	1995, 	6.4/10, 	109 minutes, 	Comedy, 	PG-13
 
-Rápida y mortal, 	1995, 	6.4/10, 	107 minutes, 	Action, 	R
+R?pida y mortal, 	1995, 	6.4/10, 	107 minutes, 	Action, 	R
 
 Billy Madison, 	1995, 	6.4/10, 	89 minutes, 	Comedy, 	PG-13
 
@@ -6834,7 +6834,7 @@ Crimes of the Heart, 	1986, 	6.4/10, 	105 minutes, 	Comedy, 	PG-13
 
 One Crazy Summer, 	1986, 	6.4/10, 	93 minutes, 	Comedy, 	PG
 
-¡Three Amigos!, 	1986, 	6.4/10, 	104 minutes, 	Comedy, 	PG
+?Three Amigos!, 	1986, 	6.4/10, 	104 minutes, 	Comedy, 	PG
 
 Batman: The Killing Joke, 	2016, 	6.5/10, 	76 minutes, 	Animation, 	R
 
@@ -6978,7 +6978,7 @@ Morning Glory, 	2010, 	6.5/10, 	100 minutes, 	Comedy, 	PG-13
 
 Hereafter, 	2010, 	6.5/10, 	129 minutes, 	Drama, 	PG-13
 
-París en la Mira, 	2010, 	6.5/10, 	92 minutes, 	Action, 	R
+Par?s en la Mira, 	2010, 	6.5/10, 	92 minutes, 	Action, 	R
 
 The Crazies, 	2010, 	6.5/10, 	101 minutes, 	Horror, 	R
 
@@ -7118,9 +7118,9 @@ Ned Kelly, 	2003, 	6.5/10, 	110 minutes, 	Action, 	R
 
 Out of Time, 	2003, 	6.5/10, 	105 minutes, 	Action, 	PG-13
 
-Más allá de las fronteras, 	2003, 	6.5/10, 	127 minutes, 	Adventure, 	R
+M?s all? de las fronteras, 	2003, 	6.5/10, 	127 minutes, 	Adventure, 	R
 
-Básico y letal, 	2003, 	6.5/10, 	98 minutes, 	Action, 	R
+B?sico y letal, 	2003, 	6.5/10, 	98 minutes, 	Action, 	R
 
 The Missing, 	2003, 	6.5/10, 	137 minutes, 	Adventure, 	R
 
@@ -7298,11 +7298,11 @@ Big Girls Don't Cry... They Get Even, 	1992, 	6.5/10, 	96 minutes, 	Comedy, 	PG
 
 Hero, 	1992, 	6.5/10, 	119 minutes, 	Comedy, 	PG-13
 
-1492: Conquista del Paraíso, 	1992, 	6.5/10, 	154 minutes, 	Adventure, 	PG-13
+1492: Conquista del Para?so, 	1992, 	6.5/10, 	154 minutes, 	Adventure, 	PG-13
 
 Far and Away, 	1992, 	6.5/10, 	140 minutes, 	Adventure, 	PG-13
 
-Jamón  Jamón, 	1992, 	6.5/10, 	95 minutes, 	Comedy, 	UNRATED
+Jam?n  Jam?n, 	1992, 	6.5/10, 	95 minutes, 	Comedy, 	UNRATED
 
 FernGully: Las aventuras de Zak y Crysta, 	1992, 	6.5/10, 	76 minutes, 	Animation, 	G
 
@@ -7410,7 +7410,7 @@ Manos de piedra, 	2016, 	6.6/10, 	111 minutes, 	Action, 	R
 
 Whiskey Tango Foxtrot, 	2016, 	6.6/10, 	112 minutes, 	Biography, 	R
 
-El bebé de Bridget Jones, 	2016, 	6.6/10, 	118 minutes, 	Comedy, 	R
+El beb? de Bridget Jones, 	2016, 	6.6/10, 	118 minutes, 	Comedy, 	R
 
 The Choice, 	2016, 	6.6/10, 	111 minutes, 	Drama, 	PG-13
 
@@ -7426,7 +7426,7 @@ The Lost City of Z, 	2016, 	6.6/10, 	141 minutes, 	Adventure, 	PG-13
 
 Summertime, 	2015, 	6.6/10, 	105 minutes, 	Drama, 	NOT RATED
 
-Más fuerte que las bombas, 	2015, 	6.6/10, 	109 minutes, 	Drama, 	R
+M?s fuerte que las bombas, 	2015, 	6.6/10, 	109 minutes, 	Drama, 	R
 
 Experimenter, 	2015, 	6.6/10, 	98 minutes, 	Biography, 	PG-13
 
@@ -7696,7 +7696,7 @@ Dark Blue, 	2002, 	6.6/10, 	118 minutes, 	Action, 	R
 
 Asterix and Obelix Meet Cleopatra, 	2002, 	6.6/10, 	107 minutes, 	Adventure, 	PG
 
-Casarse... está en griego, 	2002, 	6.6/10, 	95 minutes, 	Comedy, 	PG
+Casarse... est? en griego, 	2002, 	6.6/10, 	95 minutes, 	Comedy, 	PG
 
 Star Wars: Episode II - Attack of the Clones, 	2002, 	6.6/10, 	142 minutes, 	Action, 	PG
 
@@ -7730,7 +7730,7 @@ Titan A.E., 	2000, 	6.6/10, 	94 minutes, 	Animation, 	PG
 
 Shanghai Noon, 	2000, 	6.6/10, 	110 minutes, 	Action, 	PG-13
 
-U-571: La batalla del Atlántico, 	2000, 	6.6/10, 	116 minutes, 	Action, 	PG-13
+U-571: La batalla del Atl?ntico, 	2000, 	6.6/10, 	116 minutes, 	Action, 	PG-13
 
 Me  Myself & Irene, 	2000, 	6.6/10, 	116 minutes, 	Comedy, 	R
 
@@ -7814,7 +7814,7 @@ The Brothers McMullen, 	1995, 	6.6/10, 	98 minutes, 	Comedy, 	R
 
 Home for the Holidays, 	1995, 	6.6/10, 	103 minutes, 	Comedy, 	PG-13
 
-Círculo de amigos, 	1995, 	6.6/10, 	103 minutes, 	Drama, 	PG-13
+C?rculo de amigos, 	1995, 	6.6/10, 	103 minutes, 	Drama, 	PG-13
 
 Total Eclipse, 	1995, 	6.6/10, 	111 minutes, 	Biography, 	R
 
@@ -7960,7 +7960,7 @@ Popstar: Never Stop Never Stopping, 	2016, 	6.7/10, 	87 minutes, 	Comedy, 	R
 
 Midnight Special, 	2016, 	6.7/10, 	112 minutes, 	Drama, 	PG-13
 
-Café Society, 	2016, 	6.7/10, 	96 minutes, 	Comedy, 	PG-13
+Caf? Society, 	2016, 	6.7/10, 	96 minutes, 	Comedy, 	PG-13
 
 Gold, 	2016, 	6.7/10, 	120 minutes, 	Adventure, 	R
 
@@ -7980,7 +7980,7 @@ Mistress America, 	2015, 	6.7/10, 	84 minutes, 	Comedy, 	R
 
 Hello  My Name Is Doris, 	2015, 	6.7/10, 	90 minutes, 	Comedy, 	R
 
-La última ola, 	2015, 	6.7/10, 	105 minutes, 	Action, 	R
+La ?ltima ola, 	2015, 	6.7/10, 	105 minutes, 	Action, 	R
 
 The Wedding Ringer, 	2015, 	6.7/10, 	101 minutes, 	Comedy, 	R
 
@@ -7990,7 +7990,7 @@ The Good Dinosaur, 	2015, 	6.7/10, 	93 minutes, 	Animation, 	PG
 
 Macbeth, 	2015, 	6.7/10, 	113 minutes, 	Drama, 	R
 
-Hardcore: Misión extrema, 	2015, 	6.7/10, 	96 minutes, 	Action, 	R
+Hardcore: Misi?n extrema, 	2015, 	6.7/10, 	96 minutes, 	Action, 	R
 
 Hotel Transylvania 2, 	2015, 	6.7/10, 	89 minutes, 	Animation, 	PG
 
@@ -8000,7 +8000,7 @@ When the Game Stands Tall, 	2014, 	6.7/10, 	115 minutes, 	Drama, 	PG
 
 Spring, 	2014, 	6.7/10, 	109 minutes, 	Comedy, 	NOT RATED
 
-Las nubes de María, 	2014, 	6.7/10, 	124 minutes, 	Drama, 	R
+Las nubes de Mar?a, 	2014, 	6.7/10, 	124 minutes, 	Drama, 	R
 
 Wish I Was Here, 	2014, 	6.7/10, 	106 minutes, 	Comedy, 	R
 
@@ -8008,7 +8008,7 @@ Men  Women & Children, 	2014, 	6.7/10, 	119 minutes, 	Comedy, 	R
 
 Penguins of Madagascar, 	2014, 	6.7/10, 	92 minutes, 	Animation, 	PG
 
-La salvación, 	2014, 	6.7/10, 	92 minutes, 	Drama, 	R
+La salvaci?n, 	2014, 	6.7/10, 	92 minutes, 	Drama, 	R
 
 Goodnight Mommy, 	2014, 	6.7/10, 	99 minutes, 	Horror, 	R
 
@@ -8044,7 +8044,7 @@ Ender's Game, 	2013, 	6.7/10, 	114 minutes, 	Action, 	PG-13
 
 Escape Plan, 	2013, 	6.7/10, 	115 minutes, 	Action, 	R
 
-Ninfomanía: segunda parte, 	2013, 	6.7/10, 	123 minutes, 	Drama, 	NOT RATED
+Ninfoman?a: segunda parte, 	2013, 	6.7/10, 	123 minutes, 	Drama, 	NOT RATED
 
 Safe Haven, 	2013, 	6.7/10, 	115 minutes, 	Drama, 	PG-13
 
@@ -8154,7 +8154,7 @@ Feast of Love, 	2007, 	6.7/10, 	97 minutes, 	Drama, 	R
 
 Cassandra's Dream, 	2007, 	6.7/10, 	108 minutes, 	Crime, 	PG-13
 
-Noches púrpuras, 	2007, 	6.7/10, 	95 minutes, 	Drama, 	PG-13
+Noches p?rpuras, 	2007, 	6.7/10, 	95 minutes, 	Drama, 	PG-13
 
 Surf's Up, 	2007, 	6.7/10, 	85 minutes, 	Animation, 	PG
 
@@ -8318,7 +8318,7 @@ Mystery  Alaska, 	1999, 	6.7/10, 	119 minutes, 	Comedy, 	R
 
 The Bone Collector, 	1999, 	6.7/10, 	118 minutes, 	Crime, 	R
 
-La última puerta, 	1999, 	6.7/10, 	133 minutes, 	Mystery, 	R
+La ?ltima puerta, 	1999, 	6.7/10, 	133 minutes, 	Mystery, 	R
 
 Life, 	1999, 	6.7/10, 	108 minutes, 	Comedy, 	R
 
@@ -8328,9 +8328,9 @@ High Art, 	1998, 	6.7/10, 	101 minutes, 	Drama, 	R
 
 All I Wanna Do, 	1998, 	6.7/10, 	97 minutes, 	Comedy, 	PG-13
 
-Escándalo, 	1998, 	6.7/10, 	143 minutes, 	Comedy, 	R
+Esc?ndalo, 	1998, 	6.7/10, 	143 minutes, 	Comedy, 	R
 
-Un ángel enamorado, 	1998, 	6.7/10, 	114 minutes, 	Drama, 	PG-13
+Un ?ngel enamorado, 	1998, 	6.7/10, 	114 minutes, 	Drama, 	PG-13
 
 Apt Pupil, 	1998, 	6.7/10, 	111 minutes, 	Crime, 	R
 
@@ -8582,7 +8582,7 @@ Miss You Already, 	2015, 	6.8/10, 	112 minutes, 	Comedy, 	PG-13
 
 Max, 	2015, 	6.8/10, 	111 minutes, 	Adventure, 	PG
 
-Conspiración y poder, 	2015, 	6.8/10, 	125 minutes, 	Biography, 	R
+Conspiraci?n y poder, 	2015, 	6.8/10, 	125 minutes, 	Biography, 	R
 
 No Escape, 	2015, 	6.8/10, 	103 minutes, 	Action, 	R
 
@@ -8998,7 +8998,7 @@ Where the Day Takes You, 	1991, 	6.8/10, 	105 minutes, 	Crime, 	R
 
 Until the End of the World, 	1991, 	6.8/10, 	280 minutes, 	Action, 	R
 
-The Naked Gun 2½: The Smell of Fear, 	1991, 	6.8/10, 	85 minutes, 	Comedy, 	PG-13
+The Naked Gun 2?: The Smell of Fear, 	1991, 	6.8/10, 	85 minutes, 	Comedy, 	PG-13
 
 Bugsy, 	1991, 	6.8/10, 	136 minutes, 	Biography, 	R
 
@@ -9120,7 +9120,7 @@ All Is Lost, 	2013, 	6.9/10, 	106 minutes, 	Action, 	PG-13
 
 Warm Bodies, 	2013, 	6.9/10, 	98 minutes, 	Comedy, 	PG-13
 
-Enemigos idénticos, 	2013, 	6.9/10, 	91 minutes, 	Mystery, 	R
+Enemigos id?nticos, 	2013, 	6.9/10, 	91 minutes, 	Mystery, 	R
 
 The Reluctant Fundamentalist, 	2012, 	6.9/10, 	130 minutes, 	Drama, 	R
 
@@ -9308,7 +9308,7 @@ Shadow of the Vampire, 	2000, 	6.9/10, 	92 minutes, 	Drama, 	R
 
 The Road to El Dorado, 	2000, 	6.9/10, 	89 minutes, 	Animation, 	PG
 
-Humanité, 	1999, 	6.9/10, 	148 minutes, 	Drama, 	Not specified
+Humanit?, 	1999, 	6.9/10, 	148 minutes, 	Drama, 	Not specified
 
 Dead or Alive, 	1999, 	6.9/10, 	105 minutes, 	Action, 	R
 
@@ -9414,7 +9414,7 @@ Heart and Souls, 	1993, 	6.9/10, 	104 minutes, 	Comedy, 	PG-13
 
 Six Degrees of Separation, 	1993, 	6.9/10, 	112 minutes, 	Comedy, 	R
 
-La casa de los espíritus, 	1993, 	6.9/10, 	140 minutes, 	Drama, 	R
+La casa de los esp?ritus, 	1993, 	6.9/10, 	140 minutes, 	Drama, 	R
 
 Grumpy Old Men, 	1993, 	6.9/10, 	103 minutes, 	Comedy, 	PG-13
 
@@ -9464,7 +9464,7 @@ The Last Boy Scout, 	1991, 	6.9/10, 	105 minutes, 	Action, 	R
 
 Robin Hood: Prince of Thieves, 	1991, 	6.9/10, 	143 minutes, 	Action, 	PG-13
 
-El príncipe Cascanueces, 	1990, 	6.9/10, 	100 minutes, 	Animation, 	G
+El pr?ncipe Cascanueces, 	1990, 	6.9/10, 	100 minutes, 	Animation, 	G
 
 Memphis Belle, 	1990, 	6.9/10, 	107 minutes, 	Action, 	PG-13
 
@@ -9576,7 +9576,7 @@ Million Dollar Arm, 	2014, 	7/10, 	124 minutes, 	Biography, 	PG
 
 Kill the Messenger, 	2014, 	7/10, 	112 minutes, 	Biography, 	R
 
-Héctor y el secreto de la felicidad, 	2014, 	7/10, 	120 minutes, 	Adventure, 	R
+H?ctor y el secreto de la felicidad, 	2014, 	7/10, 	120 minutes, 	Adventure, 	R
 
 Pawn Sacrifice, 	2014, 	7/10, 	115 minutes, 	Biography, 	PG-13
 
@@ -9606,7 +9606,7 @@ Oblivion, 	2013, 	7/10, 	124 minutes, 	Action, 	PG-13
 
 Pacific Rim, 	2013, 	7/10, 	131 minutes, 	Action, 	PG-13
 
-Ninfomanía: primera parte, 	2013, 	7/10, 	117 minutes, 	Drama, 	NOT RATED
+Ninfoman?a: primera parte, 	2013, 	7/10, 	117 minutes, 	Drama, 	NOT RATED
 
 We're the Millers, 	2013, 	7/10, 	110 minutes, 	Comedy, 	R
 
@@ -9804,7 +9804,7 @@ Secretary, 	2002, 	7/10, 	107 minutes, 	Comedy, 	R
 
 Me Without You, 	2001, 	7/10, 	94 minutes, 	Drama, 	R
 
-La Ciénaga, 	2001, 	7/10, 	103 minutes, 	Comedy, 	NOT RATED
+La Ci?naga, 	2001, 	7/10, 	103 minutes, 	Comedy, 	NOT RATED
 
 Lost and Delirious, 	2001, 	7/10, 	103 minutes, 	Drama, 	R
 
@@ -9996,7 +9996,7 @@ Hellraiser, 	1987, 	7/10, 	94 minutes, 	Horror, 	R
 
 Saving Grace, 	1986, 	7/10, 	112 minutes, 	Comedy, 	PG
 
-Ménage, 	1986, 	7/10, 	84 minutes, 	Comedy, 	Not specified
+M?nage, 	1986, 	7/10, 	84 minutes, 	Comedy, 	Not specified
 
 Duet for One, 	1986, 	7/10, 	107 minutes, 	Drama, 	R
 
@@ -10126,11 +10126,11 @@ Real Steel, 	2011, 	7.1/10, 	127 minutes, 	Action, 	PG-13
 
 The Adjustment Bureau, 	2011, 	7.1/10, 	106 minutes, 	Romance, 	PG-13
 
-Melancolía, 	2011, 	7.1/10, 	135 minutes, 	Drama, 	R
+Melancol?a, 	2011, 	7.1/10, 	135 minutes, 	Drama, 	R
 
 We Bought a Zoo, 	2011, 	7.1/10, 	124 minutes, 	Comedy, 	PG
 
-El espía que sabía demasiado, 	2011, 	7.1/10, 	122 minutes, 	Drama, 	R
+El esp?a que sab?a demasiado, 	2011, 	7.1/10, 	122 minutes, 	Drama, 	R
 
 Hesher, 	2010, 	7.1/10, 	106 minutes, 	Comedy, 	R
 
@@ -10292,7 +10292,7 @@ Thirteen Conversations About One Thing, 	2001, 	7.1/10, 	104 minutes, 	Drama, 	R
 
 Iris, 	2001, 	7.1/10, 	91 minutes, 	Biography, 	R
 
-Juego de espías, 	2001, 	7.1/10, 	126 minutes, 	Action, 	R
+Juego de esp?as, 	2001, 	7.1/10, 	126 minutes, 	Action, 	R
 
 Brotherhood of the Wolf, 	2001, 	7.1/10, 	142 minutes, 	Action, 	R
 
@@ -10412,7 +10412,7 @@ Thousand Pieces of Gold, 	1991, 	7.1/10, 	105 minutes, 	Romance, 	PG-13
 
 The Inner Circle, 	1991, 	7.1/10, 	137 minutes, 	Drama, 	PG-13
 
-Sólo con tu pareja, 	1991, 	7.1/10, 	94 minutes, 	Comedy, 	NOT RATED
+S?lo con tu pareja, 	1991, 	7.1/10, 	94 minutes, 	Comedy, 	NOT RATED
 
 Homicide, 	1991, 	7.1/10, 	102 minutes, 	Crime, 	R
 
@@ -10568,7 +10568,7 @@ God Bless America, 	2011, 	7.2/10, 	105 minutes, 	Comedy, 	R
 
 Winnie the Pooh, 	2011, 	7.2/10, 	100 minutes, 	Animation, 	G
 
-¿Sabes quién viene?, 	2011, 	7.2/10, 	80 minutes, 	Comedy, 	R
+?Sabes qui?n viene?, 	2011, 	7.2/10, 	80 minutes, 	Comedy, 	R
 
 War Horse, 	2011, 	7.2/10, 	146 minutes, 	Drama, 	PG-13
 
@@ -10718,7 +10718,7 @@ About Schmidt, 	2002, 	7.2/10, 	125 minutes, 	Comedy, 	R
 
 Lilo & Stitch, 	2002, 	7.2/10, 	85 minutes, 	Animation, 	PG
 
-Dragón rojo, 	2002, 	7.2/10, 	124 minutes, 	Crime, 	R
+Drag?n rojo, 	2002, 	7.2/10, 	124 minutes, 	Crime, 	R
 
 Insomnia, 	2002, 	7.2/10, 	118 minutes, 	Drama, 	R
 
@@ -10828,7 +10828,7 @@ Ashes of Time, 	1994, 	7.2/10, 	100 minutes, 	Action, 	R
 
 The Madness of King George, 	1994, 	7.2/10, 	104 minutes, 	Biography, 	PG-13
 
-Exótica, 	1994, 	7.2/10, 	103 minutes, 	Drama, 	R
+Ex?tica, 	1994, 	7.2/10, 	103 minutes, 	Drama, 	R
 
 La boda de Muriel, 	1994, 	7.2/10, 	106 minutes, 	Comedy, 	R
 
@@ -10904,7 +10904,7 @@ Punto de quiebra, 	1991, 	7.2/10, 	122 minutes, 	Action, 	R
 
 May Fools, 	1990, 	7.2/10, 	100 minutes, 	Comedy, 	R
 
-¡Ay  Carmela!, 	1990, 	7.2/10, 	102 minutes, 	Comedy, 	PG-13
+?Ay  Carmela!, 	1990, 	7.2/10, 	102 minutes, 	Comedy, 	PG-13
 
 To Sleep with Anger, 	1990, 	7.2/10, 	102 minutes, 	Drama, 	PG
 
@@ -11006,7 +11006,7 @@ American Sniper, 	2014, 	7.3/10, 	133 minutes, 	Action, 	R
 
 John Wick, 	2014, 	7.3/10, 	101 minutes, 	Action, 	R
 
-Sólo los amantes sobreviven, 	2013, 	7.3/10, 	123 minutes, 	Comedy, 	R
+S?lo los amantes sobreviven, 	2013, 	7.3/10, 	123 minutes, 	Comedy, 	R
 
 Blue Jasmine, 	2013, 	7.3/10, 	98 minutes, 	Drama, 	PG-13
 
@@ -11050,7 +11050,7 @@ Another Year, 	2010, 	7.3/10, 	129 minutes, 	Comedy, 	PG-13
 
 Certified Copy, 	2010, 	7.3/10, 	106 minutes, 	Drama, 	NOT RATED
 
-La versión de mi vida, 	2010, 	7.3/10, 	134 minutes, 	Comedy, 	R
+La versi?n de mi vida, 	2010, 	7.3/10, 	134 minutes, 	Comedy, 	R
 
 Submarine, 	2010, 	7.3/10, 	97 minutes, 	Comedy, 	R
 
@@ -11138,7 +11138,7 @@ Breakfast on Pluto, 	2005, 	7.3/10, 	128 minutes, 	Comedy, 	R
 
 North Country, 	2005, 	7.3/10, 	126 minutes, 	Drama, 	R
 
-Caché, 	2005, 	7.3/10, 	117 minutes, 	Drama, 	R
+Cach?, 	2005, 	7.3/10, 	117 minutes, 	Drama, 	R
 
 Coach Carter, 	2005, 	7.3/10, 	136 minutes, 	Biography, 	PG-13
 
@@ -11424,7 +11424,7 @@ Paterson, 	2016, 	7.4/10, 	118 minutes, 	Comedy, 	R
 
 Finding Dory, 	2016, 	7.4/10, 	97 minutes, 	Animation, 	PG
 
-Día del atentado, 	2016, 	7.4/10, 	133 minutes, 	Crime, 	R
+D?a del atentado, 	2016, 	7.4/10, 	133 minutes, 	Crime, 	R
 
 Eddie the Eagle, 	2016, 	7.4/10, 	106 minutes, 	Biography, 	PG-13
 
@@ -11442,7 +11442,7 @@ The Accountant, 	2016, 	7.4/10, 	128 minutes, 	Action, 	R
 
 Fantastic Beasts and Where to Find Them, 	2016, 	7.4/10, 	133 minutes, 	Adventure, 	PG-13
 
-El gran pequeño, 	2015, 	7.4/10, 	106 minutes, 	Drama, 	PG-13
+El gran peque?o, 	2015, 	7.4/10, 	106 minutes, 	Drama, 	PG-13
 
 Shaun the Sheep Movie, 	2015, 	7.4/10, 	85 minutes, 	Animation, 	PG
 
@@ -11452,7 +11452,7 @@ Remember, 	2015, 	7.4/10, 	94 minutes, 	Drama, 	R
 
 Revancha, 	2015, 	7.4/10, 	124 minutes, 	Drama, 	R
 
-Misión: imposible 5 - Nación secreta, 	2015, 	7.4/10, 	131 minutes, 	Action, 	PG-13
+Misi?n: imposible 5 - Naci?n secreta, 	2015, 	7.4/10, 	131 minutes, 	Action, 	PG-13
 
 Avengers: Age of Ultron, 	2015, 	7.4/10, 	141 minutes, 	Action, 	PG-13
 
@@ -11538,7 +11538,7 @@ Under the Same Moon, 	2007, 	7.4/10, 	106 minutes, 	Adventure, 	PG-13
 
 Talk to Me, 	2007, 	7.4/10, 	118 minutes, 	Biography, 	R
 
-Crimen sin perdón, 	2007, 	7.4/10, 	120 minutes, 	Crime, 	R
+Crimen sin perd?n, 	2007, 	7.4/10, 	120 minutes, 	Crime, 	R
 
 Death at a Funeral, 	2007, 	7.4/10, 	87 minutes, 	Comedy, 	R
 
@@ -11782,7 +11782,7 @@ The Wailing, 	2016, 	7.5/10, 	156 minutes, 	Drama, 	NOT RATED
 
 Toni Erdmann, 	2016, 	7.5/10, 	162 minutes, 	Comedy, 	R
 
-Estación Zombie: tren a Busan, 	2016, 	7.5/10, 	118 minutes, 	Action, 	NOT RATED
+Estaci?n Zombie: tren a Busan, 	2016, 	7.5/10, 	118 minutes, 	Action, 	NOT RATED
 
 The Jungle Book, 	2016, 	7.5/10, 	106 minutes, 	Adventure, 	PG
 
@@ -11796,7 +11796,7 @@ Doctor Strange, 	2016, 	7.5/10, 	115 minutes, 	Action, 	PG-13
 
 Nocturnal Animals, 	2016, 	7.5/10, 	116 minutes, 	Crime, 	R
 
-El hijo de Saúl, 	2015, 	7.5/10, 	107 minutes, 	Drama, 	R
+El hijo de Sa?l, 	2015, 	7.5/10, 	107 minutes, 	Drama, 	R
 
 Trumbo, 	2015, 	7.5/10, 	124 minutes, 	Biography, 	R
 
@@ -11960,7 +11960,7 @@ Best in Show, 	2000, 	7.5/10, 	90 minutes, 	Comedy, 	PG-13
 
 High Fidelity, 	2000, 	7.5/10, 	113 minutes, 	Comedy, 	R
 
-Malèna, 	2000, 	7.5/10, 	109 minutes, 	Comedy, 	R
+Mal?na, 	2000, 	7.5/10, 	109 minutes, 	Comedy, 	R
 
 Ratcatcher, 	1999, 	7.5/10, 	94 minutes, 	Drama, 	NOT RATED
 
@@ -11982,7 +11982,7 @@ I Stand Alone, 	1998, 	7.5/10, 	93 minutes, 	Crime, 	NOT RATED
 
 SLC Punk!, 	1998, 	7.5/10, 	97 minutes, 	Comedy, 	R
 
-Les Misérables, 	1998, 	7.5/10, 	134 minutes, 	Crime, 	PG-13
+Les Mis?rables, 	1998, 	7.5/10, 	134 minutes, 	Crime, 	PG-13
 
 Buffalo '66, 	1998, 	7.5/10, 	110 minutes, 	Comedy, 	R
 
@@ -12150,7 +12150,7 @@ A Royal Affair, 	2012, 	7.6/10, 	137 minutes, 	Biography, 	R
 
 The Impossible, 	2012, 	7.6/10, 	114 minutes, 	Drama, 	PG-13
 
-Les Misérables, 	2012, 	7.6/10, 	158 minutes, 	Drama, 	PG-13
+Les Mis?rables, 	2012, 	7.6/10, 	158 minutes, 	Drama, 	PG-13
 
 Rockstar, 	2011, 	7.6/10, 	159 minutes, 	Drama, 	NOT RATED
 
@@ -12262,7 +12262,7 @@ Collateral, 	2004, 	7.6/10, 	115 minutes, 	Crime, 	R
 
 The Blind Swordsman: Zatoichi, 	2003, 	7.6/10, 	116 minutes, 	Action, 	R
 
-La vida sin mí, 	2003, 	7.6/10, 	106 minutes, 	Drama, 	R
+La vida sin m?, 	2003, 	7.6/10, 	106 minutes, 	Drama, 	R
 
 Carandiru, 	2003, 	7.6/10, 	145 minutes, 	Drama, 	R
 
@@ -12340,7 +12340,7 @@ Ulysses' Gaze, 	1995, 	7.6/10, 	176 minutes, 	Drama, 	UNRATED
 
 Land and Freedom, 	1995, 	7.6/10, 	109 minutes, 	Drama, 	NOT RATED
 
-La Cérémonie, 	1995, 	7.6/10, 	112 minutes, 	Crime, 	NOT RATED
+La C?r?monie, 	1995, 	7.6/10, 	112 minutes, 	Crime, 	NOT RATED
 
 Living in Oblivion, 	1995, 	7.6/10, 	90 minutes, 	Comedy, 	R
 
@@ -12348,7 +12348,7 @@ The Bridges of Madison County, 	1995, 	7.6/10, 	135 minutes, 	Drama, 	PG-13
 
 Dead Man Walking, 	1995, 	7.6/10, 	122 minutes, 	Crime, 	R
 
-Adiós a Las Vegas, 	1995, 	7.6/10, 	111 minutes, 	Drama, 	R
+Adi?s a Las Vegas, 	1995, 	7.6/10, 	111 minutes, 	Drama, 	R
 
 Die Hard with a Vengeance, 	1995, 	7.6/10, 	128 minutes, 	Action, 	R
 
@@ -12372,7 +12372,7 @@ The Joy Luck Club, 	1993, 	7.6/10, 	139 minutes, 	Drama, 	R
 
 El piano, 	1993, 	7.6/10, 	121 minutes, 	Drama, 	R
 
-Un día de furia, 	1993, 	7.6/10, 	113 minutes, 	Crime, 	R
+Un d?a de furia, 	1993, 	7.6/10, 	113 minutes, 	Crime, 	R
 
 The Story of Qiu Ju, 	1992, 	7.6/10, 	101 minutes, 	Comedy, 	PG
 
@@ -12380,7 +12380,7 @@ Rebels of the Neon God, 	1992, 	7.6/10, 	106 minutes, 	Crime, 	Not specified
 
 A Tale of Winter, 	1992, 	7.6/10, 	114 minutes, 	Drama, 	Not specified
 
-Léolo, 	1992, 	7.6/10, 	107 minutes, 	Comedy, 	NOT RATED
+L?olo, 	1992, 	7.6/10, 	107 minutes, 	Comedy, 	NOT RATED
 
 For a Lost Soldier, 	1992, 	7.6/10, 	92 minutes, 	Drama, 	UNRATED
 
@@ -12474,7 +12474,7 @@ Maudie, 	2016, 	7.7/10, 	115 minutes, 	Biography, 	PG-13
 
 Mustang: belleza salvaje, 	2015, 	7.7/10, 	97 minutes, 	Drama, 	PG-13
 
-Un hombre gruñón, 	2015, 	7.7/10, 	116 minutes, 	Comedy, 	PG-13
+Un hombre gru??n, 	2015, 	7.7/10, 	116 minutes, 	Comedy, 	PG-13
 
 The Theory of Everything, 	2014, 	7.7/10, 	123 minutes, 	Biography, 	PG-13
 
@@ -12616,9 +12616,9 @@ The Count of Monte Cristo, 	2002, 	7.7/10, 	131 minutes, 	Action, 	PG-13
 
 Minority Report, 	2002, 	7.7/10, 	145 minutes, 	Action, 	PG-13
 
-En algún lugar de África, 	2001, 	7.7/10, 	141 minutes, 	Biography, 	R
+En alg?n lugar de ?frica, 	2001, 	7.7/10, 	141 minutes, 	Biography, 	R
 
-Y Tu Mamá También, 	2001, 	7.7/10, 	106 minutes, 	Adventure, 	R
+Y Tu Mam? Tambi?n, 	2001, 	7.7/10, 	106 minutes, 	Adventure, 	R
 
 Black Hawk Down, 	2001, 	7.7/10, 	144 minutes, 	Drama, 	R
 
@@ -12790,7 +12790,7 @@ Gravity, 	2013, 	7.8/10, 	91 minutes, 	Drama, 	PG-13
 
 Blue Is the Warmest Color, 	2013, 	7.8/10, 	180 minutes, 	Drama, 	NC-17
 
-El círculo roto, 	2012, 	7.8/10, 	111 minutes, 	Drama, 	NOT RATED
+El c?rculo roto, 	2012, 	7.8/10, 	111 minutes, 	Drama, 	NOT RATED
 
 Silver Linings Playbook, 	2012, 	7.8/10, 	122 minutes, 	Comedy, 	R
 
@@ -12830,7 +12830,7 @@ The Boy in the Striped Pajamas, 	2008, 	7.8/10, 	94 minutes, 	Drama, 	PG-13
 
 The Curious Case of Benjamin Button, 	2008, 	7.8/10, 	166 minutes, 	Drama, 	PG-13
 
-Búsqueda implacable, 	2008, 	7.8/10, 	93 minutes, 	Action, 	PG-13
+B?squeda implacable, 	2008, 	7.8/10, 	93 minutes, 	Action, 	PG-13
 
 Shelter, 	2007, 	7.8/10, 	97 minutes, 	Drama, 	R
 
@@ -12838,7 +12838,7 @@ American Gangster, 	2007, 	7.8/10, 	157 minutes, 	Biography, 	R
 
 Atonement, 	2007, 	7.8/10, 	123 minutes, 	Drama, 	R
 
-Después de la boda, 	2006, 	7.8/10, 	120 minutes, 	Drama, 	R
+Despu?s de la boda, 	2006, 	7.8/10, 	120 minutes, 	Drama, 	R
 
 Black Book, 	2006, 	7.8/10, 	145 minutes, 	Drama, 	R
 
@@ -12876,7 +12876,7 @@ Lost in Translation, 	2003, 	7.8/10, 	102 minutes, 	Drama, 	R
 
 The Magdalene Sisters, 	2002, 	7.8/10, 	114 minutes, 	Drama, 	R
 
-Tierra de sueños, 	2002, 	7.8/10, 	105 minutes, 	Drama, 	PG-13
+Tierra de sue?os, 	2002, 	7.8/10, 	105 minutes, 	Drama, 	PG-13
 
 Hedwig and the Angry Inch, 	2001, 	7.8/10, 	95 minutes, 	Comedy, 	R
 
@@ -13350,7 +13350,7 @@ Shutter Island, 	2010, 	8.1/10, 	138 minutes, 	Mystery, 	R
 
 About Elly, 	2009, 	8.1/10, 	119 minutes, 	Drama, 	Not specified
 
-Persépolis, 	2007, 	8.1/10, 	96 minutes, 	Animation, 	PG-13
+Pers?polis, 	2007, 	8.1/10, 	96 minutes, 	Animation, 	PG-13
 
 Elite Squad, 	2007, 	8.1/10, 	115 minutes, 	Action, 	R
 
@@ -13434,7 +13434,7 @@ Platoon, 	1986, 	8.1/10, 	120 minutes, 	Drama, 	R
 
 Stand by Me, 	1986, 	8.1/10, 	89 minutes, 	Adventure, 	R
 
-Hasta el último hombre, 	2016, 	8.2/10, 	139 minutes, 	Biography, 	R
+Hasta el ?ltimo hombre, 	2016, 	8.2/10, 	139 minutes, 	Biography, 	R
 
 La La Land, 	2016, 	8.2/10, 	128 minutes, 	Comedy, 	PG-13
 
@@ -13442,7 +13442,7 @@ Baahubali: The Beginning, 	2015, 	8.2/10, 	159 minutes, 	Action, 	Not specified
 
 Inside Out, 	2015, 	8.2/10, 	95 minutes, 	Animation, 	PG
 
-La habitación, 	2015, 	8.2/10, 	118 minutes, 	Drama, 	R
+La habitaci?n, 	2015, 	8.2/10, 	118 minutes, 	Drama, 	R
 
 PK, 	2014, 	8.2/10, 	153 minutes, 	Comedy, 	Not specified
 
@@ -13546,11 +13546,11 @@ A Separation, 	2011, 	8.4/10, 	123 minutes, 	Drama, 	PG-13
 
 3 Idiots, 	2009, 	8.4/10, 	170 minutes, 	Adventure, 	PG-13
 
-WALL·E, 	2008, 	8.4/10, 	98 minutes, 	Animation, 	G
+WALL?E, 	2008, 	8.4/10, 	98 minutes, 	Animation, 	G
 
-Oldboy: Cinco días para vengarse, 	2003, 	8.4/10, 	120 minutes, 	Action, 	R
+Oldboy: Cinco d?as para vengarse, 	2003, 	8.4/10, 	120 minutes, 	Action, 	R
 
-Amélie, 	2001, 	8.4/10, 	122 minutes, 	Comedy, 	R
+Am?lie, 	2001, 	8.4/10, 	122 minutes, 	Comedy, 	R
 
 American Beauty, 	1999, 	8.4/10, 	122 minutes, 	Drama, 	R
 
@@ -13608,7 +13608,7 @@ The Usual Suspects, 	1995, 	8.6/10, 	106 minutes, 	Crime, 	R
 
 Se7en, 	1995, 	8.6/10, 	127 minutes, 	Crime, 	R
 
-Léon: The Professional, 	1994, 	8.6/10, 	110 minutes, 	Crime, 	R
+L?on: The Professional, 	1994, 	8.6/10, 	110 minutes, 	Crime, 	R
 
 The Silence of the Lambs, 	1991, 	8.6/10, 	118 minutes, 	Crime, 	R
 
